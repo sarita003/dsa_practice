@@ -29,7 +29,7 @@ public class FindMiddleOfLinkedListDemo {
 			fast = fast.next.next;
 		}
 		
-		return fast;
+		return slow;
 		
 		
 	}
